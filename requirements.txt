@@ -1,0 +1,15 @@
+pandas 
+numpy 
+matplotlib 
+seaborn 
+scipy 
+scikit-learn 
+jupyter 
+openpyxl
+IPython
+
+FastAPI
+Uvicorn
+Streamlit
+MLflow
+Docker
